@@ -1,2 +1,4 @@
-# sensors_without_borders
-Sensors without Borders Server Side Components
+# sensors without Borders
+Sensors without Borders Server Side Components for MQTT data ingest into Elastic search
+
+
